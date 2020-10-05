@@ -2,7 +2,7 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-//$(document).ready(function(){
+$(document).ready(function(){
    // Sticky footer
   //var bumpIt = function() {
       //$("body").css("margin-bottom", $(".page__footer").outerHeight(true));
@@ -20,8 +20,9 @@
       //bumpIt();
     //}
   //}, 250);
+
   // FitVids init
-  //$("#main").fitVids();
+  $("#main").fitVids();
 
   // init sticky sidebar
   $(".sticky").Stickyfill();
