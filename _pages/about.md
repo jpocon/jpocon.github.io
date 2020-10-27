@@ -17,10 +17,12 @@ Biogeography, GIScience, Political Ecology, Remote Sensing, Socio-Ecological Sys
 Education
 ------
 
-B.S. Policy, Planning & Development, University of Southern California, 2013\
-M.A. Geography, University of California, Los Angeles, 2020\
-    Thesis: [A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)\
-Ph.D. Geography, University of California, Los Angeles, 2023 (Expected)
+B.S. Policy, Planning & Development, USC, 2013
+
+M.A. Geography, UCLA, 2020\
+[A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)
+
+Ph.D. Geography, UCLA, 2023 (Expected)
 
 Research Questions
 ------
