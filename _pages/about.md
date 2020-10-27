@@ -18,14 +18,19 @@ Education
 ------
 
 B.S. Policy, Planning & Development, University of Southern California, 2013
-M.A. Geography, University of California, Los Angeles, 2020
-  Thesis: [A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)
+
+M.A. Geography, University of California, Los Angeles, 2020\
+    Thesis: [A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)
+
 Ph.D. Geography, University of California, Los Angeles, 2023 (Expected)
 
 Research Questions
 ------
 
-How do socio-morphologies impact biodiversity presence? Do impediments to historical (a)biotic movement help or hurt conservation goals? Can coupling remote sensing with local ecological knowledge get us to this understanding? What does it take to co-produce research questions between stakeholders and the scientific community?
+How do socio-morphologies impact biodiversity presence?\
+Do impediments to historical (a)biotic movement help or hurt conservation goals?\
+Can coupling remote sensing with local ecological knowledge get us to this understanding?\
+What does it take to co-produce research questions between stakeholders and the scientific community?
 
 Selected Publications
 ------
