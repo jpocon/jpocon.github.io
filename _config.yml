@@ -7,7 +7,7 @@ description              : &description ""
 url                      : "https://jpocon.github.io"
 baseurl                  : 
 repository               : "jpocon/jpocon.github.io"
-teaser                   :  "teaser.JPG"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -96,7 +96,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :  "https://orcid.org/0000-0002-3899-9062"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
