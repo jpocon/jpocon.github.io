@@ -9,14 +9,11 @@ main:
   - title: "Talks"
     url: /talks/       
         
-  - title: "Publications"
+  - title: "Pubs"
     url: /publications/
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
