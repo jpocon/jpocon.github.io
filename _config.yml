@@ -76,6 +76,7 @@ author:
   name             : "Jon"
   avatar           : "profile.png"
   bio              : "Geography PhD Student stuyding socio-morphologies and (a)biotic movement in socio-ecological systems."
+  CV        : "https://jpocon.github.io/files/Ocon_JP-CV-Fa20.pdf"
   location         : "UCLA"
   employer         :
   pubmed           : 
@@ -108,7 +109,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV        : "https://jpocon.github.io/files/Ocon_JP-CV-Fa20.prf"
 
 
 # Reading Files
