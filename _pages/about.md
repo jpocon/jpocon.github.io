@@ -36,9 +36,11 @@ Current Fields of Interest
 :   Biogeography, GIScience, Political Ecology, Remote Sensing, Socio-Ecological Systems, Urban Design & Ecology
 
 Questions
-:   - How do socio-morphologies impact biodiversity presence? 
-:   - Do impediments to historical (a)biotic movement help or hurt conservation goals? 
-:   - Can coupling remote sensing with local ecological knowledge get us to this understanding?
+:   How do socio-morphologies impact biodiversity presence? 
+:   <br>
+:   Do impediments to historical (a)biotic movement help or hurt conservation goals? 
+:   <br>
+:   Can coupling remote sensing with local ecological knowledge get us to this understanding?
 
 Selected Publications
 :   Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *Journal of Biogeography* (submitted for publication).
