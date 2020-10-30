@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jon is a current PhD student in the Department of Geography at the University of California, Los Angeles. He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in the best practices in cartography and geographic information software and science. 
+Jon is a current PhD student in the Department of Geography at the University of California, Los Angeles. He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and GIScience. 
 
 
 ---
@@ -42,8 +42,8 @@ Questions
 
 Selected Publications
 :   Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *Journal of Biogeography* (submitted for publication).
-:   
+
 :   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere* (submitted for publication).
 
 Recent Awards
-:   * 2019 GIS @ UCLA Summer Fellowship
+:   * [2019 Geospatial @ UCLA Summer Fellowship](https://gis.ucla.edu/)
