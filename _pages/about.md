@@ -37,9 +37,7 @@ Current Fields of Interest
 
 Questions
 :   How do socio-morphologies impact biodiversity presence? 
-:   <br>
 :   Do impediments to historical (a)biotic movement help or hurt conservation goals? 
-:   <br>
 :   Can coupling remote sensing with local ecological knowledge get us to this understanding?
 
 Selected Publications
