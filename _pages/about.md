@@ -15,39 +15,36 @@ Current Fields of Interest
 
 Education
 ------
+Ph.D. Geography
+:   University of California, Los Angeles, 2023 (Expected)
+
+M.A. Geography
+:   University of California, Los Angeles, 2020
+:   [A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)
 
 B.S. Policy, Planning & Development
 :   University of Southern California, 2013
 
-M.A. Geography
-:   University of California, Los Angeles, 2020
-:   Thesis: [A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions](https://escholarship.org/content/qt3ng2j2vn/qt3ng2j2vn_noSplash_70de6e043e4daf081395408d17d026ef.pdf)
-
-Ph.D. Geography
-:   University of California, Los Angeles, 2023 (Expected)
-
 Research Questions
 ------
 
-* How do socio-morphologies impact biodiversity presence? 
-* Do impediments to historical (a)biotic movement help or hurt conservation goals? 
-* Can coupling remote sensing with local ecological knowledge get us to this understanding?
+:   How do socio-morphologies impact biodiversity presence? 
+:   Do impediments to historical (a)biotic movement help or hurt conservation goals? 
+:   Can coupling remote sensing with local ecological knowledge get us to this understanding?
 
 Selected Publications
 ------
-\setlength{\parindent}{-0.2in}
-\setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt}
-\noindent
 
-Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *Journal of Biogeography*, (submitted for publication).
+:   Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *Journal of Biogeography*, (submitted for publication).
 
-Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere*, (submitted for publication).
+:   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere*, (submitted for publication).
 
 Recent Awards
 ------
 
-* 2019 GIS @ UCLA Summer Fellowship
+:   2019 GIS @ UCLA Summer Fellowship
+
+___
 
 Life Outside of the Academy
 ======
