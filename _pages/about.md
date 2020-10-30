@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and GIScience. 
+Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and geographic information systems (GIS). 
 
 
 ---
