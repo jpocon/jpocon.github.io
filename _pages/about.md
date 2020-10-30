@@ -10,6 +10,8 @@ redirect_from:
 
 Jon is a current PhD student in the Department of Geography at the University of California, Los Angeles. He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in the best practices in cartography and geographic information software and science. 
 
+\
+
 Education
 ======
 Ph.D. Geography
@@ -21,6 +23,8 @@ M.A. Geography
 
 B.S. Policy, Planning & Development
 :   University of Southern California, 2013
+
+\
 
 Research
 ======
