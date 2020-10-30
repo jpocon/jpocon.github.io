@@ -5,7 +5,6 @@
 #main {
   @include container;
   @include clearfix;
-  width: 80%;
   margin-top: 2em;
   padding-top: 80px;
   animation: intro 0.3s both;
