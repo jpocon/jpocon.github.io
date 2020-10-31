@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Professional"
+title: "Service"
 permalink: /professional/
 author_profile: true
 ---
-
-<br>
-
-# Service
 
 **DISES-RCN: Patterns, Places, People: A Network for Scalable Airborne Observation ofSocio-Environmental Systems**
 :   Steering Committee Member, *February 2020 - Present*
