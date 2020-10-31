@@ -5,12 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome.**
+**Bioclimatic Definitions of Tropical Dry Forest Improve Our Ability to Map This Critically Endangered Biome.**
 :   *September 3, 2020*
 :   [Contributed talk](https://www.eventbrite.com/e/scgis-virtual-conference-series-scgis-community-presentations-session-2-tickets-118395894307#) - Society for Conservation GIS (SCGIS) Virtual Conference Series. 
 :   <br>
 
-**A global analysis of tropical dry forst extent and cover based on climatic definitions.**
+**A Global Analysis of Tropical Dry Forest Extent and Cover Based on Climatic Definitions.**
 :   *August 3, 2020*
 :   [Contributed talk](https://eco.confex.com/eco/2020/meetingapp.cgi/Paper/86207) - Ecological Society of America (ESA) Virtual Meeting, "Harnessing the ecological data revolution." 
 :   <br>
