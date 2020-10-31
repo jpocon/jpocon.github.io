@@ -46,4 +46,5 @@ Selected Publications
 :   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere* (submitted for publication).
 
 Recent Awards
+:   * Graduate Dean's Scholar Award - Graduate Division, UCLA
 :   * [2019 Geospatial @ UCLA Summer Fellowship](https://gis.ucla.edu/)
