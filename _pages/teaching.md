@@ -8,7 +8,7 @@ author_profile: true
 All course taught through the UCLA Department of Geography. [More information.](https://www.registrar.ucla.edu/Academics/Course-Descriptions/Course-Details?SA=GEOG&funsel=3)
 
 
-#Instructor
+# Instructor
 
 **Cartography**
 :   *Summer 2020*
@@ -16,7 +16,7 @@ All course taught through the UCLA Department of Geography. [More information.](
 :   This course introduces and reinforces the methods, techniques, and considerations behind the cartographic process, geographic data visualization and map design. Topics including typography, color theory, classification, and symbology are covered in this online course. Students use ArcGIS Desktop, the industry-standard commercial GIS platform, and ArcGIS Online, a popular web-based mapping and data visualization platform to complete coursework. In addition to exposing students to the variety of settings and situations in which various cartographic design techniques are used, students are given the opportunity to apply these methods to their own work.
 
 
-#Teaching Assistant
+# Teaching Assistant
 
 **Geographic Information Systems Programming and Development**
 :   *Spring 2021*

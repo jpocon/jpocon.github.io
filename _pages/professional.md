@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-#Service
+# Service
 
 **DISES-RCN: Patterns, Places, People: A Network for Scalable Airborne Observation ofSocio-Environmental Systems**
 :   Steering Committee Member, *February 2020 - Present*
@@ -20,7 +20,7 @@ author_profile: true
 :   <br>
 
 
-#Membership
+# Membership
 
 **American Geophysical Union (AGU)**
 :   *August 2020 - Present*
@@ -43,7 +43,7 @@ author_profile: true
 :   <br>
 
 
-#Experience
+# Experience
 
 Concrete Couture Designs
 :   Sole Proprietor, *January 2015 - Present*
