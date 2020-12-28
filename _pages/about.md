@@ -41,7 +41,7 @@ Questions
 :   Can coupling remote sensing with local ecological knowledge get us to this understanding?
 
 Selected Publications
-:   Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *Journal of Biogeography* (submitted for publication).
+:   Ocón, J. P., Ibanez, T., Franklin, J., Pau, S., Keppel, G., Rivas-Torres, G., ... & Gillespie, T. W. (2020). Bioclimatic definitions of tropical dry forest improve our ability to map this critically endangered biome at a global spatial scale. *PLOS ONE* (submitted for publication).
 :   <br>
 :   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere* (submitted for publication).
 
