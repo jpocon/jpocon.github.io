@@ -10,6 +10,7 @@ redirect_from:
 
 Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and geographic information systems (GIS). 
 
+Jon and his advisor, Dr. Thomas W. Gillespie, have been awarded a three-year grant from the County of Los Angeles Department of Public Health to apply optical/hyperspectral remote sensing to urban forest health assessment.  The project is entitled “Optimizing the planning and management of Los Angeles County's urban forest”.
 
 ---
 
