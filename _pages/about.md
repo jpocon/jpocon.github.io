@@ -47,6 +47,7 @@ Selected Publications
 :   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere* (submitted for publication).
 
 Recent Awards
-:   * Spring 2021 Residency - [Nature Art & Habitat *Residency*](https://nahr.it/NAH_Residency-Animali-Animals)
+![2021 NAHR_CA Announcement Photo](https://studyingplace.space/images/2021_NAHR_CA_Residency.jpg)
+:   * Spring 2021 Residency - [Nature Art & Habitat *Residency*](https://nahr.it/Fellows-Residenti)
 :   * Graduate Dean's Scholar Award - Graduate Division, UCLA
 :   * [2019 Geospatial @ UCLA Summer Fellowship](https://gis.ucla.edu/)
