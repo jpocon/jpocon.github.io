@@ -10,7 +10,10 @@ redirect_from:
 
 Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and geographic information systems (GIS). 
 
-Jon and his advisor, [Dr. Thomas W. Gillespie](https://geog.ucla.edu/person/thomas-gillespie/), have been awarded a three-year grant from the County of Los Angeles Department of Public Health to apply machine learning in optical/hyperspectral remote sensing to urban forest health assessment.  The project is entitled “Optimizing the planning and management of Los Angeles County's urban forest”.
+Jon and his advisor, [Dr. Thomas W. Gillespie](https://geog.ucla.edu/person/thomas-gillespie/), have been awarded a three-year grant from the County of Los Angeles Department of Public Health to apply machine learning in remote sensing to urban forest health assessment.  The project is entitled “Optimizing the planning and management of Los Angeles County's urban forest”.
+
+![2021 NAHR_CA Announcement Photo](https://studyingplace.space/images/2021_NAHR_CA_Residency.jpg)
+He has been selected as the first Fellow for NAH*R*_California. The Nature Art & Habitat *Residency* is an eco-laboratory of multidisciplinary practice and is typically hosted in the Taleggio Valley, Bergamo, Italy. This year, Jon will spend two weeks in March in the Santa Ynez Valley covering the residency's theme, *Interdependence Between Species*. His project, "Picking Up Traces: Assessing Animal Response to Socio-Morphologies" will use mixed-methods to trace (non)human ecological relationships across the study site. Find out more at [NAH*R*'s website](https://nahr.it).
 
 ---
 
@@ -47,7 +50,6 @@ Selected Publications
 :   Ordway, E. M., Elmore, A. J., Kolstoe, S., Quinn, J. E., Swanwick, R., Cattau, M., ... & Wilson, C. (2020). Leveraging the NEON Airborne Observation Platform for socio-environmental systems research. *Ecosphere* (submitted for publication).
 
 Recent Awards
-![2021 NAHR_CA Announcement Photo](https://studyingplace.space/images/2021_NAHR_CA_Residency.jpg)
 :   * Spring 2021 Residency - [Nature Art & Habitat *Residency*](https://nahr.it/Fellows-Residenti)
 :   * Graduate Dean's Scholar Award - Graduate Division, UCLA
 :   * [2019 Geospatial @ UCLA Summer Fellowship](https://gis.ucla.edu/)
