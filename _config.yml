@@ -5,7 +5,7 @@ title_separator          : "-"
 name                     : &name ""
 description              : &description ""
 url                      : "https://jpocon.github.io"
-baseurl                  : /
+baseurl                  : 
 repository               : "jpocon/jpocon.github.io"
 teaser                   : 
 breadcrumbs              : false # true, false (default)
