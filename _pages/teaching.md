@@ -11,7 +11,7 @@ All course taught through the UCLA Department of Geography. [More information.](
 # Instructor
 
 **Cartography**
-:   *Summer 2020*
+:   *Summer 2021, 2020*
 :   <br>
 :   This course introduces and reinforces the methods, techniques, and considerations behind the cartographic process, geographic data visualization and map design. Topics including typography, color theory, classification, and symbology are covered in this online course. Students use ArcGIS Desktop, the industry-standard commercial GIS platform, and ArcGIS Online, a popular web-based mapping and data visualization platform to complete coursework. In addition to exposing students to the variety of settings and situations in which various cartographic design techniques are used, students are given the opportunity to apply these methods to their own work.
 

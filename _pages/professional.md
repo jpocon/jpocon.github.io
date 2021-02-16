@@ -17,6 +17,20 @@ author_profile: true
 :   Graduate Student Representative, Geography, *September 2019 - June 2020*
 :   <br>
 
+# Workshops
+
+**Integrating Machine Learning into Geographic Research**
+:   AAG Learning Series for Graduate Students, *February 2021*
+:   <br>
+
+**People, Land, & Ecosystems: Leveraging NEON for Socio-Environmental Synthesis**
+:   National Socio-Environmental Synthesis Center (SESYNC), *February 2020*
+:   <br>
+
+**Machine Learning for Spatial and Temporal Analysis**
+:   GIScience 2016, *September 2016*
+:   <br>
+
 
 # Membership
 
