@@ -11,7 +11,7 @@ redirect_from:
 Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/ "UCLA Geography Homepage"). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and geographic information systems (GIS). 
 
 <a href="https://studyingplace.space/images/LAC_TSP.png" title="Credit: Dr. Steven J. Steinberg, PhD, MPA, GISP (Geographic Information Officer, LA County)">
-<img style="float: right;" src="https://studyingplace.space/images/LAC_TSP.png" alt="LAC-UCLA Tree Mapping Logo">
+<img style="float: right; padding: 4px;" src="https://studyingplace.space/images/LAC_TSP.png" alt="LAC-UCLA Tree Mapping Logo">
 </a>
 
 Jon and his advisor, [Dr. Thomas W. Gillespie](https://geog.ucla.edu/person/thomas-gillespie/ "Dr. Gillespie's Profile"), have been awarded a three-year grant from the County of Los Angeles Department of Public Health to apply machine learning in remote sensing to urban forest health assessment.  The project is entitled “Optimizing the planning and management of Los Angeles County's urban forest”.
