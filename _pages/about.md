@@ -12,7 +12,7 @@ Jon is a current PhD student in the [Department of Geography at the University o
 
 Jon and his advisor, [Dr. Thomas W. Gillespie](https://geog.ucla.edu/person/thomas-gillespie/ "Dr. Gillespie's Profile"), have been awarded a three-year grant from the County of Los Angeles Department of Public Health to apply machine learning in remote sensing to urban forest health assessment.  The project is entitled “Optimizing the planning and management of Los Angeles County's urban forest”. 
 
-![LAC-UCLA Tree Mapping Logo](https://studyingplace.space/images/LAC_TSP.png){width=50%, height=50%}
+![LAC-UCLA Tree Mapping Logo](https://studyingplace.space/images/LAC_TSP.png){width=50%}
 
 He was also selected as the first Fellow for [NAH*R*_California](https://nahr.it/Fellows-Residenti "NAHR Announcement"). The Nature Art & Habitat *Residency* is an eco-laboratory of multidisciplinary practice and is typically hosted in the Taleggio Valley, Bergamo, Italy. This year, Jon will spend two weeks in March in the Santa Ynez Valley covering the residency's theme, *Interdependence Between Species*. His project, "Picking Up Traces: Assessing Animal Response to Socio-Morphologies" will use mixed-methods to trace (non)human ecological relationships across the study site. Find out more at [NAH*R*'s website](https://nahr.it "NAHR Homepage").
 
