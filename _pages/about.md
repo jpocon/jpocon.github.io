@@ -18,7 +18,7 @@ Jon and his advisor, [Dr. Thomas W. Gillespie](https://geog.ucla.edu/person/thom
 
 He was also selected as the first Fellow for [NAH*R*_California](https://nahr.it/Fellows-Residenti "NAHR Announcement"). The Nature Art & Habitat *Residency* is an eco-laboratory of multidisciplinary practice and is typically hosted in the Taleggio Valley, Bergamo, Italy. This year, Jon will spend two weeks in March in the Santa Ynez Valley covering the residency's theme, *Interdependence Between Species*. His project, "Picking Up Traces: Assessing Animal Response to Socio-Morphologies" will use mixed-methods to trace (non)human ecological relationships across the study site. Find out more at [NAH*R*'s website](https://nahr.it "NAHR Homepage").
 
-[![2021 NAHR_CA Announcement Photo](https://studyingplace.space/images/2021_NAHR_CA_Residency.jpg)](https://nahr.it/Fellows-Residenti "NAHR Announcement")
+[![2021 NAHR_CA Announcement Photo](https://studyingplace.space/images/NAHR_CA.jpg)](https://nahr.it/Fellows-Residenti "NAHR Announcement")
 
 ---
 
