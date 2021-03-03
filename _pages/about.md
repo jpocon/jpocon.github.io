@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-body {
-text-align: justify}
-</style>
+
 Jon is a current PhD student in the [Department of Geography at the University of California, Los Angeles](https://geog.ucla.edu/ "UCLA Geography Homepage"). He specializes in remote sensing of the environment with a particular interest in socio-ecological systems. Jon also engages students in best practices in cartography and geographic information systems (GIS). 
+
 <a href="https://studyingplace.space/images/LAC_TSP.png" title="Credit: Dr. Steven J. Steinberg, PhD, MPA, GISP (Geographic Information Officer, LA County)">
 <img style="float: right; padding: 8px;" src="https://studyingplace.space/images/LAC_TSP.png" alt="LAC-UCLA Tree Mapping Logo">
 </a>
