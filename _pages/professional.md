@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-**DISES-RCN: Patterns, Places, People: A Network for Scalable Airborne Observation ofSocio-Environmental Systems**
+**DISES-RCN: Patterns, Places, People: A Network for Scalable Airborne Observation of Socio-Environmental Systems**
 :   Steering Committee Member, *February 2020 - Present*
 :   <br>
 
