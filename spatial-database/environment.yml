@@ -1,0 +1,17 @@
+name: Jonathan Pando Ocón
+channels:
+  - default
+dependencies:
+  - python=3.12
+  - anaconda=2023.09
+  - pip
+  - pip:
+    - jupyter-book==0.15.1
+    - docutils==0.17.1
+    - sphinx-tojupyter==0.3.0
+    - sphinxext-rediraffe==0.2.7
+    - quantecon-book-theme
+    - sphinx-exercise==0.4.1
+    - ghp-import==1.1.0
+    - sphinxcontrib-youtube==1.1.0
+    - sphinx-togglebutton==0.3.1

@@ -1,0 +1,7 @@
+name: spatial-database
+channels:
+  - default
+dependencies:
+  - python=3.8
+  - anaconda
+
