@@ -22,8 +22,8 @@ bibtex_bibfiles:
 repository:
   url: https://jpocon.github.io/
   repository_provider: github
-  path_to_book: spatialDatabase
-  branch: master
+  path_to_book: courses/spatialDatabase
+  branch: main
 
 sphinx:
   recursive_update: true

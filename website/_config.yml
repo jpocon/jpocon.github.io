@@ -17,7 +17,7 @@ repository:
   url: https://jpocon.github.io/
   repository_provider: github
   path_to_book: ""
-  branch: master
+  branch: main
 
 sphinx:
   recursive_update: true
