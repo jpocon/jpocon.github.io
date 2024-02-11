@@ -22,7 +22,7 @@ bibtex_bibfiles:
 repository:
   url: https://jpocon.github.io/
   repository_provider: github
-  path_to_book: courses/spatialDatabase
+  path_to_book: docs/spatialDatabase
   branch: main
 
 sphinx:
