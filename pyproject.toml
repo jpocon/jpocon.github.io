@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "jpocon-github-io"
+version = "0.1.0"
+description = ""
+authors = ["jpocon <jon.pando.ocon@gmail.com>"]
+readme = "README.md"
+packages = [{include = "jpocon"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+jupyter-book = "^1.0.0"
+ipykernel = "^6.29.2"
+ghp-import = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

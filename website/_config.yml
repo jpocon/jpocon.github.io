@@ -1,0 +1,22 @@
+title: Jonathan Pando Ocón, Ph.D.
+author: Jonathan Pando Ocón
+logo: content/images/profile.png
+
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+repository:
+  url: https://jpocon.github.io/
+  repository_provider: github
+  path_to_book: ""
+  branch: master
+
+sphinx:
+  recursive_update: true
+  config:
+    html_theme_options:
+      repository_provider: custom
