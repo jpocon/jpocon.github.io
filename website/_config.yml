@@ -5,6 +5,10 @@ logo: content/images/profile.png
 execute:
   execute_notebooks: force
 
+# Link to other Jupyter Books in the same repository
+myst_book_extensions:
+  linkcode_resolve: true
+
 latex:
   latex_documents:
     targetname: book.tex

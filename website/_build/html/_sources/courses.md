@@ -1,4 +1,4 @@
 # Testing courses
 
-[Spatial Database](../courses/spatialDatabase/_build/html/content/Overview.html)
+[Spatial Database](../courses/spatialDatabase/content/about.md)
 
